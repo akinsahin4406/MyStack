@@ -1,3 +1,6 @@
+#include <iostream>
+#include "MyStack.h"
+
 template<typename T>
 void MyStack<T>::push(T newvalue)
 {
